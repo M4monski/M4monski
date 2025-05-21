@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Keith Harvey and I'm an full-stack aspiring frontend developer, based in Cebu city.<br>Portfolio: khpaportfolio.vercel.app</h2>
+<h2 align="left">Hi 👋! My name is Keith Harvey and I'm an full-stack aspiring frontend developer, based in Cebu city.</h2>
 
 ###
 
